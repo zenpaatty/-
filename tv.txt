@@ -1,4 +1,23 @@
 {
+  "sites": [
+    {
+      "key": "点播源",
+      "name": "点播源",
+      "type": 0,
+      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    }
+  ],
   "lives": [
     {
       "group": "电视直播",
@@ -6,13 +25,7 @@
         {
           "name": "广东卫视",
           "urls": [
-            "https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000"
-          ]
-        },
-        {
-          "name": "河南卫视",
-          "urls": [
-            "http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8"
+            "https://live.v1.mk/aishang/gdwshd"
           ]
         }
       ]
