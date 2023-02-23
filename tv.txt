@@ -1,12 +1,12 @@
 {
   "sites": [
     {
-      "key": "点播源",
-      "name": "点播源",
+      "key": "电视直播",
+      "name": "电视直播",
       "type": 0,
       "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
       "categories": [
         "国产剧",
@@ -26,6 +26,12 @@
           "name": "广东卫视",
           "urls": [
             "https://live.v1.mk/aishang/gdwshd"
+          ]
+        },
+        {
+          "name": "CCTV1",
+          "urls": [
+            "https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000"
           ]
         }
       ]
