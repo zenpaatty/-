@@ -113,13 +113,15 @@
         {
           "name": "湖南卫视",
           "urls": [
-            "https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000"
+            "https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000",
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8"
           ]
         },
         {
           "name": "东方卫视",
           "urls": [
-            "https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000"
+            "https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000",
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8"
           ]
         },
         {
@@ -225,7 +227,10 @@
           ]
         },
         {
-          "name": "陕西卫视 暂无"
+          "name": "陕西卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8"
+          ]
         },
         {
           "name": "四川卫视",
@@ -234,10 +239,16 @@
           ]
         },
         {
-          "name": "山西卫视 暂无"
+          "name": "山西卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8"
+          ]
         },
         {
-          "name": "内蒙古卫视 暂无"
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8"
+          ]
         },
         {
           "name": "海南卫视",
@@ -258,7 +269,10 @@
           ]
         },
         {
-          "name": "西藏卫视 暂无"
+          "name": "西藏卫视",
+          "urls": [
+            "\thttps://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8"
+          ]
         },
         {
           "name": "甘肃卫视",
@@ -267,13 +281,22 @@
           ]
         },
         {
-          "name": "青海卫视 暂无"
+          "name": "青海卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8"
+          ]
         },
         {
-          "name": "宁夏卫视 暂无"
+          "name": "宁夏卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8"
+          ]
         },
         {
-          "name": "新疆卫视 暂无"
+          "name": "新疆卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8"
+          ]
         },
         {
           "name": "东南卫视",
@@ -303,6 +326,18 @@
           "name": "游戏风云",
           "urls": [
             "https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000"
+          ]
+        },
+        {
+          "name": "厦门卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8"
           ]
         }
       ]
