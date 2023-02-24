@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "点播源",
       "type": 0,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
+      "api": "https://www.188zy.org/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -26,8 +26,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 3,
+      "url": "https://jiexi.xxzy.org/?url="
     }
   ],
   "flags": [
